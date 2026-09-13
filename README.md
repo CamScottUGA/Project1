@@ -1,8 +1,1 @@
-# Project 1: My First Content View
-
-Full assignment instructions: https://nmi.cool/appdev/assignment-one/
-
-Submit your work by pushing to this repo's `main` branch, including a completed `reflection.md` (150–300 words) — see the assignment page for details.
-
----
-*NMIX 4030/6030 — Native App Development*
+Building this app was a fantastic way to practice layout and design with SwiftUI. I have never done anything like this, what I mean is creating a fuctional app. So at the beginning of the semester I started off from ground zero, not with code, but with the design basics. With this first project I set up the main screen with three buttons that leads to other pages. For the different screens, I added a horizontal scrolling with custom cards explaining personal details about growing up, graduating from KSU, and currently working on my Masters at UGA. I also made a multicolor icon view with layered styles and a landscape that was uniquly made. I am not going to lie, I did struggle with this section becuase at first I did not know where to start with it, and going through the process, it was not looking good with the first trial. With trying different ways of making the landscape look, it turned out good. Overall, the project did bring a solid layout and design together and personal storytelling into an app. 
